@@ -11,3 +11,8 @@ Slides and examples on the training TypeScript - September 2022
 - (Wim): Overloaded functions met arrow syntax: https://stackoverflow.com/questions/39187614/typescript-overload-arrow-functions/53143568#53143568
 - Video: assert functions: https://www.youtube.com/watch?v=8lM609lci7E (bekijk ook de andere content van Matt Pocock!).
 - Another blog on common TS mistakes: https://betterprogramming.pub/7-typescript-common-mistakes-to-avoid-581c30e514d6
+
+Any questions? Feel free to mail me at info@kassenaar.com.
+
+Thank you!
+Cheers - Peter.
