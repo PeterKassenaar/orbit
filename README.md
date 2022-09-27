@@ -9,3 +9,4 @@ Slides and examples on the training TypeScript - September 2022
 - How to get/create types based on the returned data from an array: https://steveholgado.com/typescript-types-from-arrays/
 - (Joris): Het keyword `infer` in conditionele types: https://www.typescriptlang.org/docs/handbook/2/conditional-types.html#inferring-within-conditional-types
 - (Wim): Overloaded functions met arrow syntax: https://stackoverflow.com/questions/39187614/typescript-overload-arrow-functions/53143568#53143568
+- Video: assert functions: https://www.youtube.com/watch?v=8lM609lci7E (bekijk ook de andere content van Matt Pocock!).
